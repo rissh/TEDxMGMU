@@ -1,7 +1,7 @@
 # TEDxMGMU
 This repository is having all the codes used to create a sample website for TEDxMGMU.
 
-## Below is the heroku link for your reference 
+## Below is the Website link for your reference 
 
 [Live App](https://tedxmgmulittlemonster.netlify.app/)
 
